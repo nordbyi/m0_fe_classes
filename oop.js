@@ -68,7 +68,7 @@ class Dragon {
   }
 
   eat() {
-    this.#fullLevel >= 4 ? console.log('Dragon is too full to eat any more') : this.#fullLevel++
+    this.#fullLevel >= 4 ? console.log(`${this.name} is too full to eat any more`) : this.#fullLevel++
   }
 }
 
