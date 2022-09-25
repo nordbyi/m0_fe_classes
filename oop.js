@@ -15,7 +15,7 @@ class Unicorn {
 
 var destiny = new Unicorn('Destiny')
 console.log(destiny)
-destiny.say('Word to your monther!')
+destiny.say('Word to your mother!')
 
 // Write a class called Vampire
 // it should have a dynamic name property
